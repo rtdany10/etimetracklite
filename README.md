@@ -1,5 +1,6 @@
-# eTimeTrackLite - Python
-Pull checkin logs from eTimeTrackLite (eSSL) using python
+# eTimeTrackLite Web - Python
+Pull checkin logs from eTimeTrackLite Web (eSSL) using python.
+This does not work with the desktop version of the application.
 
 # Sample Code:
 ```
